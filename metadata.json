@@ -1,0 +1,10 @@
+{
+  "name": "OmniStream - Hybrid Video Platform",
+  "description": "Next-generation unified video streaming platform combining YouTube Live broadcasting, TikTok interactive live gifting, Zoom video conferencing, and Netflix on-demand streaming.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
